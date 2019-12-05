@@ -6,7 +6,6 @@
 | 名前 | 川端伸治 |
 | 誕生日 | 1982/1/1(37歳) |
 | メール | satoyama.shinji@gmail.com |
-| ブログ | http://01shinji.com/ |
 | Github | https://github.com/01shinji/|
 | Twitter | https://twitter.com/0101shinji |
 
